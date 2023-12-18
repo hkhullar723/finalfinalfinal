@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 20px;
+    padding: 20px;
+    line-height: 1.6;
+    background-color: #006666;
+    color: #e6ffff;
+}
+
+h1 {
+    color: black;
+    margin-bottom: 20px;
+    background-color: bisque;
+    display: inline-block;
+}
+
+p, ol, li {
+    margin-bottom: 10px;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.item {
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+}

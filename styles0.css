@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333; /* Text color */
+    background-color: #f7f7f7; /* Background color */
+    padding: 20px; /* Spacing around the content */
+    line-height: 1.6; /* Line height for better readability */
+    background-color: black;
+    color: #f7f7f7;
+  }
+  
+  h1 {
+    color: purple; /* Heading color */
+    background-color: lightblue;
+    
+    margin-bottom: 20px; /* Spacing below the heading */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Spacing below the table */
+  }
+  
+  table,
+  th,
+  td {
+    border: 1px solid #ccc; /* Table border */
+  }
+  
+  a {
+    color: #007bff; /* Link color */
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  /* Add styles for other elements as needed */
+  
